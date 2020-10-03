@@ -64,7 +64,7 @@ import javax.swing.JComboBox;public class FibonacciPrueba {
 				for (int i = 1; i <=Incremento ; i++) {
 					VarY= VarX+VarY;//2+2+0 ;2=2+2 =4 ;4=2+4 =6 ;6=4+6  =10;  10=6+10 =16;	     
  					VarX= VarY-VarX;//0=2-0 ;2=4-2 =2 ;2=6-2 =4 ;4=10-4 =6;	  6=16-6  =10;	 
-					 cboMostrarLista.addItem(VarY);//2;4;6;10;16;
+					 cboMostrarLista.addItem(VarY);//2;4;6;10;16; 
 				}
 			}
 		});
