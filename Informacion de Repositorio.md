@@ -1,3 +1,0 @@
-# hernandezlp
-Topicos Avanzados
-
